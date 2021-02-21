@@ -1,4 +1,4 @@
-<h1 align="center">Typescript Simple</h1> 
+<h1 align="center">Typescript Simple Doc</h1> 
 
 
 ## ⭐ Introduction 
