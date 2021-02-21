@@ -2,7 +2,7 @@
 
 
 ## ⭐ Introduction 
-- **I am creating Typescript documentation as it will help with my projects.**
+- **I am creating simple Typescript documentation as it will help with my projects.**
 
 
 ## Table of Contents
