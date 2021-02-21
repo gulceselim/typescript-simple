@@ -1,15 +1,16 @@
-<h1 align="center">Typescript Simple Doc</h1> 
+<h1 align="center">Typescript Simple Doc</h1>
 
+## ⭐ Introduction
 
-## ⭐ Introduction 
 - **I prepared simple Typescript Documentation for my projects in this repository.**
 
-
 ## Table of Contents
+
 - [Functions]()
 - [Object and Array]()
 
 ## Installation
+
 [nodeJS 15.9.0](https://nodejs.org/en/)
 
-```npm install -g typescript```
+`npm install -g typescript`
