@@ -2,12 +2,12 @@
 
 
 ## ⭐ Introduction 
-- **I prepared simple Typescript Documentation for my projects in this repository.**
+- **I am creating Typescript documentation as it will help with my projects.**
 
 
 ## Table of Contents
-- [Functions]()
-- [Object and Array]()
+- [Functions](https://github.com/gulceselim/typescript-simple/blob/main/arrow_functions/arrow_functions.ts)
+- [Object and Array](https://github.com/gulceselim/typescript-simple/tree/main/object_and_array)
 
 ## Installation
 ### Step 1
