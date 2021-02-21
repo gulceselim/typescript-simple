@@ -1,0 +1,17 @@
+{
+  "name": "typescript-simple",
+  "version": "1.0.0",
+  "description": "I am creating Typescript documentation as it will help with my projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watchify": "watchify main.js -o bundle.js"
+  },
+  "author": "Selim Gülce",
+  "license": "ISC",
+  "dependencies": {
+    "browserify": "^17.0.0",
+    "watchify": "^4.0.0"
+  }
+  
+}

@@ -1,0 +1,1 @@
+console.error("Error: Can't walk dependency graph: Cannot find module 'D:\\Projeler\\Yazilim\\TypeScript Project\\Codes\\typescript-simple\\main.js' from 'D:\\Projeler\\Yazilim\\TypeScript Project\\Codes\\typescript-simple\\_fake.js'\n    required by D:\\Projeler\\Yazilim\\TypeScript Project\\Codes\\typescript-simple\\_fake.js");
