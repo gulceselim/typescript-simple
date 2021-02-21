@@ -65,3 +65,8 @@
 - Press again ```ctrl + shift + b```
 
 ![](https://user-images.githubusercontent.com/43720773/108623805-f49c7780-7451-11eb-981f-10e372b5a818.jpg)
+
+
+## Usage 
+
+![](https://user-images.githubusercontent.com/43720773/108623984-fe72aa80-7452-11eb-8567-e6af00ea55d9.jpg)
