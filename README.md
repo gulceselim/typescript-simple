@@ -4,14 +4,14 @@
 ## ⭐ Introduction 
 - **I am creating simple Typescript documentation as it will help with my projects.**
 
-## Table of Contents
+## 📃 Table of Contents
 
 - [Functions](https://github.com/gulceselim/typescript-simple/blob/main/arrow_functions/arrow_functions.ts)
 - [Object and Array](https://github.com/gulceselim/typescript-simple/tree/main/object_and_array)
 - [Function Type](https://github.com/gulceselim/typescript-simple/blob/main/function_type/function_type.ts)
 - [Primitive Type](https://github.com/gulceselim/typescript-simple/blob/main/primitive_type/primitive_type.ts)
 
-## Installation
+## 🔽 Installation
 ### Step 1
 
 [nodeJS 15.9.0](https://nodejs.org/en/)
