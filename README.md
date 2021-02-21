@@ -8,6 +8,8 @@
 
 - [Functions](https://github.com/gulceselim/typescript-simple/blob/main/arrow_functions/arrow_functions.ts)
 - [Object and Array](https://github.com/gulceselim/typescript-simple/tree/main/object_and_array)
+- [Function Type](https://github.com/gulceselim/typescript-simple/blob/main/function_type/function_type.ts)
+- [Primitive Type](https://github.com/gulceselim/typescript-simple/blob/main/primitive_type/primitive_type.ts)
 
 ## Installation
 ### Step 1
@@ -69,5 +71,6 @@
 
 ## Usage 
 
-![](https://user-images.githubusercontent.com/43720773/108623984-fe72aa80-7452-11eb-8567-e6af00ea55d9.jpg)
+![](https://user-images.githubusercontent.com/43720773/108624972-4399db00-7459-11eb-90f5-65f0789073fe.jpg)
+
 
